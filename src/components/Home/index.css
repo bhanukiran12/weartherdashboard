@@ -1,0 +1,15 @@
+.home {
+  min-height: 100vh;
+}
+body {
+  background-color: yellow;
+}
+.center {
+  text-align: center;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
